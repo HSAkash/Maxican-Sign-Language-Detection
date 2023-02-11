@@ -1,0 +1,6 @@
+glob
+numpy
+pandas
+scikit-learn
+tensorflow-cpu
+tqdm
