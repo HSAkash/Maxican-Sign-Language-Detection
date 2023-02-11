@@ -5,6 +5,9 @@ Here we take only body and finger key points. In this paper or project we using 
 ## Key Points of this dataset
 ![](https://github.com/HSAkash/Maxican-Sign-Language-Detection/raw/main/ReadmePic/key_points.png)
 
+## Model
+![](https://github.com/HSAkash/Maxican-Sign-Language-Detection/raw/main/ReadmePic/model.png)
+
 ## Using layers, Activation, Optimizer for model recognition
 Layers:
 * Conv1d
