@@ -4,26 +4,26 @@ Here we take only body and finger key points. In this paper or project we using 
 
 ## Using layers, Activation, Optimizer for model recognition
 Layers:
-Conv1d
-Attention
-Concatenate
-Flatten
-Dense
+* Conv1d
+* Attention
+* Concatenate
+* Flatten
+* Dense
 
 Activation:
-ReLU
-Softmax
+* ReLU
+* Softmax
 
 Optimization:
-Adam
+* Adam
 
 Loss Function:
-Categorical crossentropy
+* Categorical crossentropy
 
 Metrix
-Accuracy
+* Accuracy
 
-Run command:
+## Run command:
 ```
 pip install -r requirements.txt
 python attention_Mexican_Sign_Language.py
