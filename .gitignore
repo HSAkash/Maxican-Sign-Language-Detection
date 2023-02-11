@@ -141,6 +141,5 @@ db.json
 add_disease_faker.py
 Diseases_markdown/
 
-staticfiles_build/
+
 .env
-ML_deseases/
